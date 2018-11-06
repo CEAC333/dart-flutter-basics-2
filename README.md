@@ -8,7 +8,7 @@
 
   ## 3. Kısaca Flutter Tanıtımı > Intro to Flutter
 
-# Installation & Setup
+# Kurulumlar > Installation & Setup
 
   ## 4. Flutter Kurulumu MacOS > MacOS Setup
   
